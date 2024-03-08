@@ -12,13 +12,12 @@ header {
   padding-top: 200px;
 }
 
-header,
+/* header,
 footer {
-  background: url("../images/pattern.png"), rgb(5, 177, 177);
   background: url("../images/pattern.png"),
     linear-gradient(90deg, rgba(5, 177, 177, 1) 0%, rgba(82, 51, 154, 1) 100%);
   background-size: contain;
-}
+} */
 
 .itd_play {
   background-color: var(--color_primary);
