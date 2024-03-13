@@ -1,4 +1,4 @@
 # Bootstrap_EduSite
 
-### The site was created with bootstrap css framework
+Web technologies: HTML5, CSS3, Javascript, Bootstrap, VS Code.
 
